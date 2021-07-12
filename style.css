@@ -1,0 +1,28 @@
+h1{font-size: 80px;}
+h2{font-size: 50px;}
+
+font{font-family: Arial, Helvetica, sans-serif;}
+.logo { background-image: linear-gradient(salmon, red);
+        padding: 10px 50% ; color: white; border-radius: 5px;
+    text-align: center ; margin: 0%;}
+ul{ background-image: linear-gradient(black, red, orange); border-radius: 10px;
+    font-size: 50px;
+      padding: 50px 100px; }  
+a {text-decoration: none; color: white; text-align: center; }
+
+.agents{font-size: 80px ; text-shadow: 10px 10px gray;}
+.bg-img{background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 50%; }
+
+.agents-name{margin-right: 50px;}
+.phoenix-intro{background-color: coral; border: solid yellow; border: 20px 20px; padding: 10px;}
+.killjoy-intro{background-image: linear-gradient(yellow , orange); padding: 20px; border: thick chocolate; border-radius: 10px; border: 20px;}
+.sage-intro{ background-image: linear-gradient(cyan, blue); border: 20px 20px; padding: 20px; border-radius: 2%;}
+.raze-intro{ background-image: linear-gradient(yellow, pink); border-bottom: 10px; border-bottom: 10px; border-radius: 2%; padding: 20px;} 
+.reyna-intro{background-image: linear-gradient(pink, purple); border-bottom: 10px; border-bottom: 10px; border-radius: 2%; padding: 20px;}
+section{display: flex;}
+
+#half-width { width: 50%;}
+#half-width img{  width: 90%;}
